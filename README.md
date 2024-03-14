@@ -1,4 +1,4 @@
-# Music-Store-SQL-Project using in MYSQL 
+# Music_Store_SQL_Project_MYSQL 
 in Q 5  and if you are using this query {SELECT c.customer_id, c.first_name, c.last_name, SUM(i.total) FROM customer AS c
 JOIN invoice AS i
 ON c.customer_id = i.customer_id
