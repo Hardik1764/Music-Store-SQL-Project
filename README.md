@@ -6,7 +6,8 @@ Tools : MYSQL
 
 Data Base Name : Music store data zip file
 
-This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions
+I recently completed a music store database analysis, covering basic to advanced level problems. Some solutions required multiple methods, showcasing the versatility of techniques like CTE and Recursive. Explore how SQL can unveil business insights and growth opportunities
+
 
 NOTE : {I this project i use MYSQL so if you are using some different software you face little error, as of my knowledge most of query is running same but you facing 2-3 error while running sql query in different sofware
 for Example in MYSQL if you are USE and facing error cause due to group by function The error message you received, "Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column...", is indicating that there's a problem with how MySQL is processing your query
