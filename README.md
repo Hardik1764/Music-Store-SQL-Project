@@ -2,6 +2,9 @@
 
 SQL project to analyze online music store data
 
+Tools : MYSQL 
+Data Base Name : Music store data zip file
+
 This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions
 
 NOTE : {I this project i use MYSQL so if you are using some different software you face little error, as of my knowledge most of query is running same but you facing 2-3 error while running sql query in different sofware
