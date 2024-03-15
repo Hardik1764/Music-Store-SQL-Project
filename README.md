@@ -4,8 +4,6 @@ SQL project to analyze online music store data
 
 Tools : MYSQL 
 
-Data Base Name : Music store data zip file
-
 I recently completed a music store database analysis, covering basic to advanced level problems. Some solutions required multiple methods, showcasing the versatility of techniques like CTE and Recursive. Explore how SQL can unveil business insights and growth opportunities
 
 
